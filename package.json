@@ -1,0 +1,21 @@
+{
+  "name": "comprehensive_to_do_list_of_a_programmer2024",
+  "version": "1.0.0",
+  "description": "This is a comprehensive to-do list tailored for a programmer for a whole day.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HUMA MOHSIN",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  }
+}
